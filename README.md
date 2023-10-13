@@ -1,2 +1,2 @@
 # Employee-Scorecard-Dashboard
-This is a complex dashboard providing an overview on employee performance based on specific criteria.
+This is a complex project which aim was to create a dashboard in Power BI that will provide an overview on employee performance based on specific metrics. The dashboard is taking data from a SQL query, csv files and virtual tables created in Power Query and DAX. There are attached files with more information and explanation of the project, as well as a DEMO version of the dashboard (the sensitive data were modified or deleted to protect data privacy).
